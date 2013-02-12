@@ -1,3 +1,0 @@
-JapaneseExtensionLibrary
-========================
-aaa
