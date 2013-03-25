@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Extended Components Library for XPages - Notes/Domino (ja)
-Bundle-SymbolicName: com.ibm.xsp.extlib.domino.ja
+Bundle-SymbolicName: com.ibm.xsp.extlib.domino.ja;singleton:=true
 Bundle-Version: 8.5.3.qualifier
 Bundle-Vendor: IBM
 Fragment-Host: com.ibm.xsp.extlib.domino
