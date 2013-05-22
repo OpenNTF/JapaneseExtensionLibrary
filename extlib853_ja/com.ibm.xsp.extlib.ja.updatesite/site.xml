@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.ibm.xsp.extlib.ja.feature_8.5.3.qualifier.jar" id="com.ibm.xsp.extlib.ja.feature" version="8.5.3.qualifier">
+      <category name="Extension Library Japan Project"/>
+   </feature>
+   <category-def name="Extension Library Japan Project" label="xtension Library Japan Project">
+      <description>
+         Extension Library Japan Project Plug-ins
+      </description>
+   </category-def>
+</site>
