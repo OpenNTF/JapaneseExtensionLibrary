@@ -23,11 +23,11 @@
       provider-name="%feature.provider">
 
    <description url="ttp://www.openntf.org/internal/home.nsf/project.xsp?action=openDocument&amp;name=XPages+Extension+Library+Japan">
-      See ttp://www.openntf.org/internal/home.nsf/project.xsp?action=openDocument&amp;name=XPages+Extension+Library+Japan
+      %feature.description
    </description>
 
    <copyright url="http://www.ibm.com">
-      © Copyright IBM Corp. 2010, 2011, 2013
+      %feature.copyright
    </copyright>
 
    <license url="http://www.apache.org/licenses/LICENSE-2.0">
