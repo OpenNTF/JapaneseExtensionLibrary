@@ -1,0 +1,58 @@
+<faces-config>
+	<faces-config-extension>
+		<namespace-uri>http://www.ibm.com/xsp/coreex</namespace-uri>
+		<default-prefix>xe</default-prefix>
+		<designer-extension>
+			<control-subpackage-name>djximage</control-subpackage-name>
+		</designer-extension>
+	</faces-config-extension>
+	
+	<component>
+		<description></description>
+		<display-name>Lightbox</display-name>
+		<component-type>com.ibm.xsp.extlib.dojox.image.Lightbox</component-type>
+		<component-class>com.ibm.xsp.extlib.dojox.image.component.UILightbox</component-class>
+		<property>
+		    <description>The URL of the image to display</description>
+		    <display-name>href Attribute</display-name>
+		    <property-name>href</property-name>
+		    <property-class>java.lang.String</property-class>
+		    <property-extension>
+		        <designer-extension>
+		            <category>Lightbox</category>
+		        </designer-extension>
+		    </property-extension>
+		</property>
+		<property>
+		    <description>The caption of the image</description>
+		    <display-name>title Attribute</display-name>
+		    <property-name>title</property-name>
+		    <property-class>java.lang.String</property-class>
+		    <property-extension>
+		        <designer-extension>
+		            <category>Lightbox</category>
+		        </designer-extension>
+		    </property-extension>
+		</property>
+		<property>
+		    <description>The inner HTML of the link element</description>
+		    <display-name>innerHTML</display-name>
+		    <property-name>innerHTML</property-name>
+		    <property-class>java.lang.String</property-class>
+		    <property-extension>
+		        <designer-extension>
+		            <category>Lightbox</category>
+		        </designer-extension>
+		    </property-extension>
+		</property>
+		<component-extension>
+			<component-family>com.ibm.xsp.extlib.DojoXImage</component-family>
+			<renderer-type>com.ibm.xsp.extlib.dojox.image.Lightbox</renderer-type>
+			<tag-name>djxImageLightbox</tag-name>
+			<designer-extension>
+				<in-palette>true</in-palette>
+				<category>DojoX Image</category>
+			</designer-extension>
+		</component-extension>
+	</component>
+</faces-config>
