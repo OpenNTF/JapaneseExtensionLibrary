@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.ibm.xsp.extlib.dojox.image;singleton:=true
+Bundle-Version: 9.0.0.qualifier
+Bundle-Vendor: IBM
+Require-Bundle: com.ibm.xsp.core,
+ com.ibm.commons
+Bundle-Name: XPages Extension Library - DojoX Image
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

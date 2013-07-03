@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faces-config>
+    <render-kit>
+		<renderer>
+            <component-family>com.ibm.xsp.extlib.DojoXImage</component-family>
+            <renderer-type>com.ibm.xsp.extlib.dojox.image.Lightbox</renderer-type>
+     		<renderer-class>com.ibm.xsp.extlib.dojox.image.renderkit.html_basic.LightboxRenderer</renderer-class>     	
+     	</renderer>
+	</render-kit>
+</faces-config>
